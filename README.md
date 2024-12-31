@@ -1,0 +1,3 @@
+# RecursionError in Factorial Function
+
+This repository demonstrates a common error in recursive functions: forgetting to handle the base case correctly or not having a proper base case. The `factorial` function is implemented recursively. When called with a negative number, the recursion goes on infinitely, causing a `RecursionError`. The solution demonstrates how to handle negative inputs gracefully.
